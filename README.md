@@ -1,6 +1,6 @@
 # Python_Web_Scrapping
 
-webcraping project on internet movies database website , Importing Required libraries copy the URL of the website, check for status code which will give you 200
+Webcraping project on internet movies database website , Importing Required libraries copy the URL of the website, check for status code which will give you 200
 its good to go for scraping , then we extract data from the website the data is not in order to perform necessary actions to get useful insights , so we have 
 to clean the data using regex Functions and also want to drop unwanted columns , after cleaning data finally check for the Data frame , df.isnull().sum()---this will
 give the information about the total null values in the data set in my dataset there are no null values , df.info()---this will give you the data types in the dataset ,
